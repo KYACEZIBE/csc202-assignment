@@ -1,2 +1,2 @@
-# csc202-assingment
-csc-assingment
+# csc202-assignment
+csc-assignment
